@@ -1,0 +1,19 @@
+{
+  "name": "module-test",
+  "version": "1.0.0",
+  "main": "/dist/index.js",
+  "repository": "git@github.com:hoda-oz/module-test.git",
+  "author": "hoda-oz <otsuh@open8.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.50",
+    "@types/react-dom": "^16.9.8",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "typescript": "^4.0.3"
+  },
+  "dependencies": {}
+}
