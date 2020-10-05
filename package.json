@@ -2,6 +2,7 @@
   "name": "module-test",
   "version": "1.0.0",
   "main": "/dist/index.js",
+  "types": "./types/react-custom-text/index.d.ts",
   "repository": "git@github.com:hoda-oz/module-test.git",
   "author": "hoda-oz <otsuh@open8.com>",
   "license": "MIT",
