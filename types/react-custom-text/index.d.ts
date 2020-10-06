@@ -5,13 +5,13 @@ export default _default;
 
 // }
 
-// declare global { 
-//   namespace JSX {
-//     interface IntrinsicElements {
-//       'react-custom-text-element': any;
-//     }
-//   }
-// }
+declare global { 
+  namespace JSX {
+    interface IntrinsicElements {
+      'react-custom-text-element': any;
+    }
+  }
+}
 
 // declare namespace JSX {
 //   interface IntrinsicElements {
